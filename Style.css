@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color:#ebebeb
+}
+h1 {
+    font-family: arial black;
+   font-size: 35px; 
+   font-weight: bold;
+}
+button {
+        text-decoration:none;
+        font-weight:2600;
+        width: 665px;
+        padding-top:10px;
+        padding-bottom:10px;
+        padding-left:40px;
+        padding-right:1x;
+        border-radius: 8px;
+        border-color: transparent;
+        background-color: #d7cfd0 ;
+        text-align: left;
+}
+.centrado  {
+  float:left;
+  padding-right: 50px;
+}
+.text {
+    font-weight: bold;
+    font-size: 15px; 
+   
+}
+
+.boton{
+    width: 400px;
+}
